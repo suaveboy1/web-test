@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/suaveboy1.plainjs-lmkuxzvw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qPSbnG3pHz7mthBTsPJ6 --open"
+  }
+}
